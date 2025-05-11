@@ -13,12 +13,14 @@ Het toestel bevat:
 - breadboard + wires: connecties maken
 - 2 x 1K weerstanden: voorschakelweerstand van de LED's
 
+Al deze componenten worden geschakeld aan een microcontroller, de arduino nano. Er kan ook gemakkelijk een andere microcontroller gebruikt worden voor dit project mits aanpassen van de bedrading. 
+
 ### Arduino code
 De code die voor deze schakeling gebruikt werd is terug te vinden via deze link:
 
 ### Behuizing
 
-Al deze componenten worden geschakeld aan een microcontroller, de arduino nano. Er kan ook gemakkelijk een andere microcontroller gebruikt worden voor dit project mits aanpassen van de bedrading. 
+
 ## Binaural beats and breathing light
 ### Projectbeschrijving
 In dit project werd een ontspanningstoestel ontwikkeld dat twee technieken combineert: binaural beats en een breathing light. 
